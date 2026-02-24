@@ -1,0 +1,8 @@
+selenium
+pandas
+python-dotenv
+openai
+anthropic
+gspread
+oauth2client
+openpyxl
