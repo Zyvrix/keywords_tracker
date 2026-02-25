@@ -2,4 +2,6 @@
 import random, time
 
 def sleep_random(a, b):
-    time.sleep(random.randint(a, b))
+    delay = random.randint(a, b)
+    time.sleep(delay)
+    return delay
